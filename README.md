@@ -1,9 +1,15 @@
-# README
+# CHAT ROOM RAILS 6
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# TECHS AND STACK
+- HTML5
+- CSS3
+- Bootsrap
+- Rails
+- Ruby on rails
 
-Things you may want to cover:
+👨 **ALPHONCE MOBUTU**
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/adoyo-alphonce/)
+- GitHub: [@github](https://github.com/tingamapuro04)
 
 * Ruby version
 
