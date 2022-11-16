@@ -1,9 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# CHAT ROOM RAILS 6
 
-Things you may want to cover:
+# TECHS AND STACK
+- HTML5
+- CSS3
+- Bootsrap
+- Rails
+- Ruby on rails
 
 * Ruby version
 
