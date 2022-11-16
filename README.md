@@ -1,5 +1,3 @@
-# README
-
 # CHAT ROOM RAILS 6
 
 # TECHS AND STACK
@@ -8,6 +6,10 @@
 - Bootsrap
 - Rails
 - Ruby on rails
+
+👨 **ALPHONCE MOBUTU**
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/adoyo-alphonce/)
+- GitHub: [@github](https://github.com/tingamapuro04)
 
 * Ruby version
 
